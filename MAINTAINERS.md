@@ -7,3 +7,6 @@ Please add your name and github username (or email if you wish - this is publica
 * Fourie Joubert - fjcruiser
 
 #Roles:
+
+* Werner Smidt - Commit reviews
+
