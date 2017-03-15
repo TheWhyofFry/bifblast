@@ -5,7 +5,7 @@ Please add your name and github username (or email if you wish - this is publica
 * Werner Smidt - TheWhyofFry
 * Stephan Engelbrecht - steps371
 * Fourie Joubert - fjcruiser
-
+* Edohan Clasen - fjbruiser
 #Roles:
 
 * Werner Smidt - Commit reviews
