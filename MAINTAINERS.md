@@ -1,4 +1,4 @@
-#List of maintainers
+# List of maintainers
 
 Please add your name and github username (or email if you wish - this is publically available, so probably not a good idea) to the list below:
 
@@ -9,7 +9,7 @@ Please add your name and github username (or email if you wish - this is publica
 * Riaan Swanepoel - RLSwanepoel
 * Hannes Strydom - MalicineZA
 
-#Roles:
+# Roles:
 
 * Werner Smidt - Commit reviews, unit tests
 * Fourie Joubert - Hons coordinator
