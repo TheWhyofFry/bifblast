@@ -7,6 +7,7 @@ Please add your name and github username (or email if you wish - this is publica
 * Fourie Joubert - fjcruiser
 * Edohan Clasen - fjbruiser
 * Riaan Swanepoel - RLSwanepoel
+
 #Roles:
 
 * Werner Smidt - Commit reviews, unit tests
