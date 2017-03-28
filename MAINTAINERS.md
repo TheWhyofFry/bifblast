@@ -10,7 +10,7 @@ Please add your name and github username (or email if you wish - this is publica
 * Hannes Strydom - MalicineZA
 * Monique Joubert - MoniqJ
 * Michelle Magliolo - WytchFire
-
+* Dewald Eygelaar - DewaldEygelaar
 #Roles:
 
 * Werner Smidt - Commit reviews, unit tests
