@@ -8,6 +8,7 @@ Please add your name and github username (or email if you wish - this is publica
 * Edohan Clasen - fjbruiser
 * Riaan Swanepoel - RLSwanepoel
 * Hannes Strydom - MalicineZA
+* Monique Joubert - MoniqJ
 
 #Roles:
 
