@@ -6,11 +6,17 @@ Please add your name and github username (or email if you wish - this is publica
 * Stephan Engelbrecht - steps371
 * Fourie Joubert - fjcruiser
 * Edohan Clasen - fjbruiser
+* Riaan Swanepoel - RLSwanepoel
+* Hannes Strydom - MalicineZA
 * Lizette Loubser - Lizette95
+
+* Monique Joubert - MoniqJ
+* Michelle Magliolo - WytchFire
+* Dewald Eygelaar - DewaldEygelaar
 
 # Roles:
 
-* Werner Smidt - Commit reviews
+* Werner Smidt - Commit reviews, unit tests
 * Fourie Joubert - Hons coordinator
 
 
