@@ -9,7 +9,6 @@ Please add your name and github username (or email if you wish - this is publica
 * Riaan Swanepoel - RLSwanepoel
 * Hannes Strydom - MalicineZA
 * Lizette Loubser - Lizette95
-
 * Monique Joubert - MoniqJ
 * Michelle Magliolo - WytchFire
 * Dewald Eygelaar - DewaldEygelaar
